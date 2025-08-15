@@ -2,7 +2,7 @@
   "exercises": [
     {
       "name": "exercise00",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise01",
